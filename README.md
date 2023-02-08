@@ -6,13 +6,13 @@ Features:
 
 -Playable House Cards for all Houses of Westeros including:
 
-  -Character Stats
+  *Character Stats
   
-  -Unique Abilities
+  *Unique Abilities
   
-  -Famous Quotes
+  *Famous Quotes
   
-  -Beautiful artwork based on book illustrations
+  *Beautiful artwork based on book illustrations
   
 -Rules list
 
